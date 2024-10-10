@@ -1,1 +1,19 @@
-
+echo "SESSION_ID = levanter_10f83843b608dd4c2ea85fb3f9b953e192levanter_10f83843b608dd4c2ea85fb3f9b953e192Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+PREFIX = .
+STICKER_PACKNAME = LyFE
+ALWAYS_ONLINE = false
+RMBG_KEY = null
+LANGUAG = en
+WARN_LIMIT = 3
+FORCE_LOGOUT = false
+BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
+MAX_UPLOAD = 200
+REJECT_CALL = false
+SUDO = 237655669849
+TZ = Asia/Kolkata
+VPS = true
+AUTO_STATUS_VIEW = true
+SEND_READ = true
+AJOIN = true
+DISABLE_START_MESSAGE = false
+PERSONAL_MESSAGE = null" > config.env
